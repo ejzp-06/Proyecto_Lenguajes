@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\eduardo zepeda\source\repos\expression_evaluator\expression_evaluator\main.cpp(12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Node.cpp
+  Stack.cpp
+  postfixConverter.cpp
+  Generating Code...
+c:\users\eduardo zepeda\source\repos\expression_evaluator\expression_evaluator\postfixconverter.cpp(120): warning C4715: 'postfixConverter::getOperatorWeight': not all control paths return a value
+c:\users\eduardo zepeda\source\repos\expression_evaluator\expression_evaluator\stack.cpp(95): warning C4715: 'Stack::searchParenthesis': not all control paths return a value
+  Expression_evaluator.vcxproj -> C:\Users\Eduardo Zepeda\source\repos\Expression_evaluator\Debug\Expression_evaluator.exe
